@@ -1,9 +1,9 @@
 {
-  "name": "normalize.css",
+  "name": "normalize-scss",
   "version": "5.0.0",
   "description": "A modern alternative to CSS resets",
-  "main": "normalize.css",
-  "style": "normalize.css",
+  "main": "normalize.scss",
+  "style": "normalize.scss",
   "files": [
     "LICENSE.md",
     "normalize.css"
